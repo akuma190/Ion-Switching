@@ -1,8 +1,8 @@
 # Ion-Switching
  University of Liverpool -Ion Switching(R Programming)
-
+----------------------
 INTRODUCTION
-
+----------------------
 A single ion channel is a pore in the cell membrane that can assume an “open” state in which ions (such as potassium or sodium) can pass through. Ion channels are “gated”, i.e. they open in response to a specific stimulus, such as a change in membrane potential (voltage-gated ion channels) or the binding of a neurotransmitter (ligand-gated ion channels). Ion channels are present in the membranes of all excitable cells. Their functions include establishing a resting membrane potential, shaping action potentials and other electrical signals by gating the flow of ions across the cell membrane, controlling the flow of ions across secretory and epithelial cells, and regulating cell volume.
 
 When ion channels open, they pass electric currents. Existing methods of detecting these state changes are slow and laborious. Humans must supervise the analysis, which imparts considerable bias, in addition to being tedious. These difficulties limit the volume of ion channel current analysis that can be used in research.
